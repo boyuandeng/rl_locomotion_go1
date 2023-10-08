@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  RL_LOCOMOTION For Go1-NX
 
 This repo builds on the code from [rl_locomotion](https://github.com/antonilo/rl_locomotion)
@@ -24,9 +25,8 @@ I conducted experimental comparisons, including modifying different hyperparamet
 ```
 The blue curve represents the results of training the initial code under a1, while the other curves represent the results of training under go1. The purple and yellow curves represent the training results when the RL parameters are 0.2 and 0.5, respectively, with a greater error compared to the original curve. The green curve is the result of setting the RL parameter to 0.8 and modifying the reward. It can be seen that only the green curve is closest to the original training result
 ```
-[Figure 1]()
+[Figure 1](./figureone.png)
 
-[Figure 2]()
-
+[Figure 2](./figuretwo.png)
 
 
