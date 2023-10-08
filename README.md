@@ -12,7 +12,7 @@ but you can solve your problems through Google
 
 ## Change
 ### First
-Reset rewards to correct unstable standing issues. see 
+Reset rewards to correct unstable standing issues. see video:
 [![IMAGE ALT TEXT HERE](./figurethree.png)](https://youtu.be/oe6PWElBSbU?si=NY79DmdgkKsuuxPC)
 
 ### second
