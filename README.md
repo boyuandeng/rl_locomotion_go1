@@ -12,7 +12,8 @@ but you can solve your problems through Google
 
 ## Change
 ### First
-Reset rewards to correct unstable standing issues. see [video](https://youtu.be/oe6PWElBSbU?si=NY79DmdgkKsuuxPC)
+Reset rewards to correct unstable standing issues. see 
+[![IMAGE ALT TEXT HERE](./figurethree.png)](https://youtu.be/oe6PWElBSbU?si=NY79DmdgkKsuuxPC)
 
 ### second
 Crop the [Go1 description](https://github.com/boyuandeng/go1_description) file provided by Unitree to adapt to the old version of raisim
@@ -23,7 +24,7 @@ Updated `jt_mean_pos` in [this file](https://github.com/boyuandeng/rl_locomotion
 ## Results
 I conducted experimental comparisons, including modifying different hyperparameters and adjusting rewards.
 
-###
+
 The `blue curve` represents the results of training the initial code under a1, 
 while the other curves represent the results of training under go1. 
 The `purple` and `yellow` curves represent the training results when the `RL_coeff` parameters are `0.2` and `0.5`, respectively, 
