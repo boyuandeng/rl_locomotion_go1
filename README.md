@@ -11,13 +11,13 @@ but you can solve your problems through Google
 ```
 
 ## Change
-### first
+### First
 Reset rewards to correct unstable standing issues. see [video](https://youtu.be/oe6PWElBSbU?si=NY79DmdgkKsuuxPC)
 
 ### second
 Crop the [Go1 description](https://github.com/boyuandeng/go1_description) file provided by Unitree to adapt to the old version of raisim
 
-### third
+### Third
 Updated `jt_mean_pos` in [this file](https://github.com/boyuandeng/rl_locomotion_go1/blob/main/raisimGymTorch/env/envs/rsg_a1_task/Environment.hpp) and [this](https://github.com/boyuandeng/rl_locomotion_go1/blob/main/raisimGymTorch/env/envs/dagger_a1/Environment.hpp)
 
 ## Results
